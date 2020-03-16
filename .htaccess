@@ -1,0 +1,4 @@
+AddDefaultCharset UTF-8
+DefaultLanguage de
+
+Header set X-Build-Version "1.0"
